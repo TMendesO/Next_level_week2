@@ -11,7 +11,7 @@ function cloneField() {
 
     if (fields == fields) {
         fields.value = ""
-        console.log(fields)
+
     }
 
 
