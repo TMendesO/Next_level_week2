@@ -20,7 +20,8 @@
     "dependencies": {
         "express": "^4.17.1",
         "nunjucks": "^3.2.2",
-        "sql": "^0.78.0"
+        "sql": "^0.78.0",
+        "sqlite-async": "^1.1.0"
     },
     "devDependencies": {
         "nodemon": "^2.0.4"
